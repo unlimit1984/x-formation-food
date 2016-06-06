@@ -1,0 +1,7 @@
+
+.gitignore
+.idea/
+src/main/resources/
+src/test/
+target/
+x-formation-food.iml
